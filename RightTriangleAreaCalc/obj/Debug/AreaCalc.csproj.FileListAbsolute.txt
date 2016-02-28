@@ -1,0 +1,4 @@
+C:\Dev\2016.02.28 TriangleSpaceCalc\SpaceCalc\bin\Debug\SpaceCalc.dll
+C:\Dev\2016.02.28 TriangleSpaceCalc\SpaceCalc\bin\Debug\SpaceCalc.pdb
+C:\Dev\2016.02.28 TriangleSpaceCalc\SpaceCalc\obj\Debug\SpaceCalc.dll
+C:\Dev\2016.02.28 TriangleSpaceCalc\SpaceCalc\obj\Debug\SpaceCalc.pdb

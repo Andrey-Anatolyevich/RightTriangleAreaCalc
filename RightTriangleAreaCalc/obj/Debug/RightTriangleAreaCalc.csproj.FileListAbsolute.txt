@@ -1,0 +1,5 @@
+C:\Dev\2016.02.28 TriangleSpaceCalc\RightTriangleAreaCalc\bin\Debug\SpaceCalc.dll
+C:\Dev\2016.02.28 TriangleSpaceCalc\RightTriangleAreaCalc\bin\Debug\SpaceCalc.pdb
+C:\Dev\2016.02.28 TriangleSpaceCalc\RightTriangleAreaCalc\obj\Debug\RightTriangleAreaCalc.csprojResolveAssemblyReference.cache
+C:\Dev\2016.02.28 TriangleSpaceCalc\RightTriangleAreaCalc\obj\Debug\SpaceCalc.dll
+C:\Dev\2016.02.28 TriangleSpaceCalc\RightTriangleAreaCalc\obj\Debug\SpaceCalc.pdb

@@ -1,0 +1,9 @@
+C:\Dev\2016.02.28 TriangleSpaceCalc\AreaCalcTests\bin\Debug\AreaCalcTests.dll
+C:\Dev\2016.02.28 TriangleSpaceCalc\AreaCalcTests\bin\Debug\AreaCalcTests.pdb
+C:\Dev\2016.02.28 TriangleSpaceCalc\AreaCalcTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Dev\2016.02.28 TriangleSpaceCalc\AreaCalcTests\bin\Debug\SpaceCalc.dll
+C:\Dev\2016.02.28 TriangleSpaceCalc\AreaCalcTests\bin\Debug\SpaceCalc.pdb
+C:\Dev\2016.02.28 TriangleSpaceCalc\AreaCalcTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Dev\2016.02.28 TriangleSpaceCalc\AreaCalcTests\obj\Debug\AreaCalcTests.csprojResolveAssemblyReference.cache
+C:\Dev\2016.02.28 TriangleSpaceCalc\AreaCalcTests\obj\Debug\AreaCalcTests.dll
+C:\Dev\2016.02.28 TriangleSpaceCalc\AreaCalcTests\obj\Debug\AreaCalcTests.pdb
